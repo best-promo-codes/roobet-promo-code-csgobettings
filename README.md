@@ -11,7 +11,7 @@ Roobet is celebrated for its dedication to fairness and state-of-the-art innovat
   <tr>
     <th>✅ Product</th>
     <th>Promo Code</th>
-    <th>Exculise Bonus</th>
+    <th>Exclusive Bonus</th>
   </tr>
   <tr>
     <td>➡️ Roobet Promo Code</td>
