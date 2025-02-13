@@ -9,9 +9,9 @@ Roobet is celebrated for its dedication to fairness and state-of-the-art innovat
 <H2>Explore Roobet Promo Code 2025</H2>
  <table>
   <tr>
-    <td>✅ Product</td>
-    <td>Promo Code</td>
-    <td>Exculise Bonus</td>
+    <th>✅ Product</th>
+    <th>Promo Code</th>
+    <th>Exculise Bonus</th>
   </tr>
   <tr>
     <td>➡️ Roobet Promo Code</td>
